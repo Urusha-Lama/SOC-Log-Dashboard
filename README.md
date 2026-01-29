@@ -55,7 +55,18 @@ SOC-Log-Dashboard/
  └──.gitignore
 
 
+##Future Improvements
+
+Correlate Windows and Firewall logs in real-time
+
+Visualize alerts with charts and timelines
+
+Integrate MITRE ATT&CK framework for event mapping
+
+Support real .evtx Windows logs
 
 
+##Author
+Urusha Lama – Aspiring SOC Analyst
 
 
